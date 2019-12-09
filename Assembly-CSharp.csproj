@@ -62,14 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Medieval_Toon_Character\Source\Scripts\ChangeFaces.cs" />
-    <Compile Include="Assets\Medieval_Toon_Character\Source\Scripts\Character_Animations.cs" />
-    <Compile Include="Assets\Medieval_Toon_Character\Source\Scripts\FaceAnimations.cs" />
-    <Compile Include="Assets\Medieval_Toon_Character\Source\Scripts\PlayFaceAnimations.cs" />
+    <Compile Include="Assets\Scripts\AudioScript.cs" />
+    <Compile Include="Assets\Scripts\Character_Animations.cs" />
     <Compile Include="Assets\Scripts\Fader.cs" />
     <Compile Include="Assets\Scripts\Loadback.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
-    <Compile Include="Assets\Scripts\Portal.cs" />
+    <Compile Include="Assets\Scripts\Useless Scripts\ChangeFaces.cs" />
+    <Compile Include="Assets\Scripts\Useless Scripts\FaceAnimations.cs" />
+    <Compile Include="Assets\Scripts\Useless Scripts\PlayFaceAnimations.cs" />
     <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
     <None Include="Assets\Medieval_Toon_Character\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
